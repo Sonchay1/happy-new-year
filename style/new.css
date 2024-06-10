@@ -1,0 +1,240 @@
+.head{
+    background-image: url('../resources/Banner\ Image.png');
+    background-position: top center;
+    background-repeat: no-repeat;
+    align-items: center;
+    text-align: center;   
+}
+h1{
+    color: rgb(255, 0, 0);
+    font-size: 70px;
+    padding-top: 0px;
+    padding-bottom: 185px;
+}
+h3{
+    color: rgb(255, 0, 0);
+    font-size: 30px;
+    padding-top:250px ;
+}
+
+.b,.small{
+    font-size: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ff0000;
+}
+main{
+    text-align: center;
+    margin: 0px auto;
+    max-width: 1320px;
+}
+.small{
+    margin-top: 40px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.text{
+    font-size: 30px ;
+    margin-top: 20px;
+    font-weight: bold;
+}
+.s3{
+   background-color: rgba(255, 0, 0, 0.1);
+   padding-top: 80px;
+   padding-bottom: 80px;
+   font-size: 25px;
+   margin-top: 80px;
+   font-weight: bold;
+   border-radius: 6px;
+}
+span{
+  color: red;
+}
+.join{
+    margin-top: 40px;
+    padding: 10px 20px;
+    border: 0px solid;
+    background-color: #ff0000;
+    color: antiquewhite;
+    border-radius: 6px;
+}
+.text-small{
+
+}
+.s2{
+    text-align: left;
+    padding-left: 80px;   
+}
+a{
+    text-decoration: none;
+    color: #ffffff;
+    margin-top: 20px;
+    padding-left: 30px;
+}
+.bg{
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url('../resources/Vectorrr.png');
+    /* background-image: url('../resources/Vectorrr.png'); */
+    background-repeat: no-repeat;
+    margin-top: 80px;
+    
+}
+.Welcome{
+    font-size: 60px;
+    color: #ffffff;
+    padding-top: 70px;
+
+}
+.text-small{
+    color: #ffffff;
+    padding-right: 200px;
+}
+.img-add{
+    display: flex;
+    justify-content: space-between;
+    padding: 80px 100px 50px 0px;
+}
+.s4{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 80px;
+    gap: 30px;
+    text-align: left;
+    position:relative;
+}
+.elps{
+    border: 10px solid red;
+    border-radius: 100%;
+    padding: 30px;
+}
+.new{
+    padding-top: 80px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #ff0000;
+}
+.soon{
+    font-size: 30px;
+    padding-top: 0px;
+    font-weight: bold;
+}
+.dolor{
+    color: rgba(0, 0, 0, 0.534); 
+    width: 300px; 
+    margin-bottom: 50px;
+}
+.sal{
+    padding-top: 50px;
+    color: #ff0000;
+    font-size: 40px;
+    font-weight: bold;   
+}
+.s5{
+    margin-top: 200px;
+}
+.what{
+    font-size: 15px;
+    font-weight: bold;
+}
+.holi{
+    font-size: 48px;
+    font-weight: bold;
+    padding-top: 0px;
+}
+.sit{
+    text-align: center;
+    padding: 0px 300px;
+}
+.prot{
+    margin-top: 80px;
+    text-align: left;
+}
+.pictures{
+    margin-top: 20px;
+}
+.picture{
+    display: flex;
+    gap: 20px; 
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.picture img{
+    max-width: 450px;
+}
+.picture img:hover{
+    border: 5px solid rgba(245, 33, 5, 0.685);
+    border-radius: 30px;  
+}
+.last-section{
+    margin-top: 100px;
+    background-color: rgba(255, 0, 0, 0.05);
+    padding-top: 90px;
+}
+.subscrib{
+    margin-top: 50px;
+    margin-right: 230px;
+}
+input{
+    padding-top: 20px;
+    padding-left: 40px;
+    padding-right: 220px;
+    padding-bottom: 20px;
+    border-radius: 50px 0px 0px 50px;
+    border: 0px white ;  
+    margin-bottom: 100px;
+    font-size: 18px;
+
+}
+.submit{
+    padding-left: 40px;
+    padding-right: 80px;
+    background-color: #ff0000;
+    color: #ffffff;
+    position: absolute;
+    border-radius: 0px 50px 50px 0px;
+} 
+
+footer{
+    background-color: black;
+    background-position: center;
+    max-width: 1600px;
+    height: 610px;
+    margin: 0px auto;
+    margin-top: 100px;
+    text-align: center;
+    color: white;
+}
+.foot,.foot-last{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 26px;
+    padding-top: 70px;
+    width: 1320px;
+    margin: 0px auto;
+    margin-bottom: 20px;
+}
+.p{
+    width: 380px;
+    text-align: left;
+}
+.foot2{
+    width: 255px;
+    padding-right: 100px;
+}
+.phn img{
+    display: inline;
+    padding-right: 10px;
+}
+.www img{
+    align-items: center;
+    padding-right: 10px;
+}
+hr{
+    width: 1320px; 
+}
+.icons{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.icons img{
+    padding-left: 20px;  
+}
